@@ -32,6 +32,8 @@ OpenRLHF is **the first** high-performance, production-ready open-source RLHF fr
 
 📚 **Learn More**: [Documentation](https://openrlhf.readthedocs.io/) | [Slides](https://docs.google.com/presentation/d/1JRhB1d7csofx0PIZBmfyBdMluxNd5JLPpUHrrvVhGnk/edit?usp=sharing) | [Technical Report](https://www.researchgate.net/publication/393414548_OpenRLHF_An_Easy-to-use_Scalable_and_High-performance_RLHF_Framework) | [Video](https://www.bilibili.com/video/BV1dv2jBxEQG/)
 
+> 💡 **Tip**: Prefer a leaner training backend? Check out [**Molt**](https://github.com/NVIDIA-NeMo/labs-molt) — an [Automodel](https://github.com/NVIDIA-NeMo/Automodel)-powered take on OpenRLHF that keeps the same familiar workflow with a simpler, more elegant model backend.
+
 ## 📖 Table of Contents
 
 - [🗞️ News](#news)
